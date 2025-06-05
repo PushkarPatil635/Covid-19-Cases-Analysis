@@ -1,0 +1,15 @@
+COVID-19 Data Analysis Summary
+=============================
+
+Total Cases: 11500
+Total Deaths: 141
+Total Recoveries: 9500
+Overall Death Rate: 1.23%
+Overall Recovery Rate: 82.61%
+
+Regional Statistics:
+  Region  New_Cases  Deaths  Recoveries  Active_Cases  Death_Rate  Recovery_Rate
+0   East       3900      53        3050    265.666667    1.358974      78.205128
+1  North       3000      35        2550    138.333333    1.166667      85.000000
+2  South       2150      24        1800    108.666667    1.116279      83.720930
+3   West       2450      29        2100    107.000000    1.183673      85.714286
