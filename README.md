@@ -12,8 +12,8 @@ This project is a Python-based data analysis pipeline that processes 12 months o
 📂 Includes example outputs and a sample dataset for quick testing.
 
 ## 🛠️Tools Used
-Python
-Pandas
-NumPy
-Matplotlib
+Python,
+Pandas,
+NumPy,
+Matplotlib,
 Seaborn
